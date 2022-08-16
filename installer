@@ -1033,7 +1033,7 @@ case "$ROUTER_ARCH" in
     [ -z "$2" ] && PTXT "$INFO Detected ARMv8 architecture."
     ;;
   "armv7l")
-    ROUTER_ARCH="armv5"
+    ROUTER_ARCH="armv7"
     ADGUARD_ARCH="${ROUTER_OS}_${ROUTER_ARCH}"
     [ -z "$2" ] && PTXT "$INFO Detected ARMv7 architecture."
     ;;

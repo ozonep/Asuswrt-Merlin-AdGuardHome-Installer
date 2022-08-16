@@ -44,7 +44,7 @@ https://github.com/jumpsmm7/Asuswrt-Merlin-AdGuardHome-Installer/commits/master
 # Install/Update/Reconfig/Uninstall:
 Run this command from ssh shell and following the prompt for AdGuardHome:
 ```
-curl -L -s -k -O https://raw.githubusercontent.com/jumpsmm7/Asuswrt-Merlin-AdGuardHome-Installer/master/installer && sh installer
+curl -L -s -k -O https://raw.githubusercontent.com/ozonep/Asuswrt-Merlin-AdGuardHome-Installer/master/installer && sh installer
 ```
 # Terminal commands to for AdGuardHome are:
 ```
@@ -97,3 +97,6 @@ I also need following information:
 - You can look at all the stuff here https://github.com/jumpsmm7/Asuswrt-Merlin-AdGuardHome-Installer
 # Donate:
 This script will always be open source and free to use under [GPL-3.0 License](https://raw.githubusercontent.com/jumpsmm7/Asuswrt-Merlin-AdGuardHome-Installer/master/LICENSE), but if you want to support future development you can do so by [Donating With PayPal.](https://paypal.me/swotrb)
+
+
+https://github.com/RMerl/asuswrt-merlin.ng/wiki/Entware#the-easy-way
